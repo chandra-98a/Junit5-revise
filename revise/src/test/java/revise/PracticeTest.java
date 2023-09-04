@@ -1,7 +1,5 @@
 package revise;
 
-
-
 import org.junit.jupiter.api.Test;
 
 class PracticeTest {

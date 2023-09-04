@@ -1,6 +1,5 @@
 package revise;
 
-
 public class Division {
 	//data members
 	int num1, num2;

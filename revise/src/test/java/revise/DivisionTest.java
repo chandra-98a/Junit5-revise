@@ -4,7 +4,6 @@ import static org.junit.jupiter.api.Assertions.*;
 
 import org.junit.Test;
 
-
 public class DivisionTest {
 	//DivisionTest class objects
 	Division divisionTest1 = new Division(10, 2); 
